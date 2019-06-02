@@ -4,5 +4,6 @@
     {
         string Name { get; }
         OrganizationType Type { get; }
+        string toString();
     }
 }

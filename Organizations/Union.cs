@@ -18,5 +18,10 @@ namespace OpenVote.Shared.Organizations
         {
             return Type.ToString();
         }
+
+        public string toString()
+        {
+            return Name;
+        }
     }
 }
