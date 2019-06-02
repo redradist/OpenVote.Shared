@@ -5,11 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MaYSharp" Version="1.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\MaYSharp\MaYSharp\MaYSharp.csproj" />
   </ItemGroup>
 
 </Project>
